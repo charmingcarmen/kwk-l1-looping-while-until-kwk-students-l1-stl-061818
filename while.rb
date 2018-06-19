@@ -1,17 +1,14 @@
- def 
+ def using_while
   counter = 0
   
    while counter < 10 
-     puts "To the right, to the right, to the right, to the right"
-     puts "To the left, to the left, to the left, to the left"
-    puts "Now kick, now kick, now kick, now kick"
-     puts "Now walk it by yourself, now walk it by yourself"
-     puts ""
+     puts "wingardium leviosa"
+     
   
    counter = counter + 1 
-     puts "#{counter} move(s) completed!!"
+     puts "#{counter} levitation force !!"
    end 
   
    end 
 
-cupid_shuffle
+using_while
