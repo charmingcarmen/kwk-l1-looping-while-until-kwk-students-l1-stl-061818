@@ -12,3 +12,6 @@
    end 
 
 using_while
+
+def using_until
+  conter
